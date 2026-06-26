@@ -18,6 +18,127 @@ This repo serves as one chapter of proof in my GitHub portfolio.
 
 ---
 
+---
+
+## Lab Directory
+
+This repository is organized like a guided technical file system. Each lab chapter will include the documented work, screenshots, troubleshooting notes, and resume impact.
+
+| Chapter | Lab Area                    | Documentation                                      | Evidence                                         | Troubleshooting                                            | Resume Impact                                          |
+| ------- | --------------------------- | -------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------ |
+| 01      | Windows Server Foundation   | [Open Lab](./docs/01-windows-server-foundation.md) | [Screenshots](./screenshots/windows-server/)     | [Troubleshooting](./troubleshooting/windows-server.md)     | [Resume Impact](./resume-impact/windows-server.md)     |
+| 02      | Active Directory Setup      | [Open Lab](./active-directory/README.md)           | [Screenshots](./screenshots/active-directory/)   | [Troubleshooting](./troubleshooting/active-directory.md)   | [Resume Impact](./resume-impact/active-directory.md)   |
+| 03      | DNS and DHCP Configuration  | [Open Lab](./dns-dhcp/README.md)                   | [Screenshots](./screenshots/dns-dhcp/)           | [Troubleshooting](./troubleshooting/dns-dhcp.md)           | [Resume Impact](./resume-impact/dns-dhcp.md)           |
+| 04      | Windows Client Domain Join  | [Open Lab](./windows-client/README.md)             | [Screenshots](./screenshots/windows-client/)     | [Troubleshooting](./troubleshooting/windows-client.md)     | [Resume Impact](./resume-impact/windows-client.md)     |
+| 05      | File Shares and Permissions | [Open Lab](./file-shares-permissions/README.md)    | [Screenshots](./screenshots/file-shares/)        | [Troubleshooting](./troubleshooting/file-shares.md)        | [Resume Impact](./resume-impact/file-shares.md)        |
+| 06      | RDP and Remote Support      | [Open Lab](./rdp-remote-support/README.md)         | [Screenshots](./screenshots/rdp-remote-support/) | [Troubleshooting](./troubleshooting/rdp-remote-support.md) | [Resume Impact](./resume-impact/rdp-remote-support.md) |
+| 07      | Printer Support             | [Open Lab](./printer-support/README.md)            | [Screenshots](./screenshots/printer-support/)    | [Troubleshooting](./troubleshooting/printer-support.md)    | [Resume Impact](./resume-impact/printer-support.md)    |
+| 08      | Microsoft 365 Support       | [Open Lab](./microsoft-365/README.md)              | [Screenshots](./screenshots/microsoft-365/)      | [Troubleshooting](./troubleshooting/microsoft-365.md)      | [Resume Impact](./resume-impact/microsoft-365.md)      |
+| 09      | Endpoint Support            | [Open Lab](./endpoint-support/README.md)           | [Screenshots](./screenshots/endpoint-support/)   | [Troubleshooting](./troubleshooting/endpoint-support.md)   | [Resume Impact](./resume-impact/endpoint-support.md)   |
+| 10      | Ticketing and Documentation | [Open Lab](./ticketing/README.md)                  | [Screenshots](./screenshots/ticketing/)          | [Troubleshooting](./troubleshooting/ticketing.md)          | [Resume Impact](./resume-impact/ticketing.md)          |
+| 11      | Real-World Troubleshooting  | [Open Lab](./troubleshooting/README.md)            | [Screenshots](./screenshots/troubleshooting/)    | [Scenario Index](./troubleshooting/README.md)              | [Resume Impact](./resume-impact/troubleshooting.md)    |
+
+---
+
+## Guided Folder Map
+
+```text
+03-IT-Support-Specialist-Lab
+│
+├── README.md
+│
+├── docs/
+│   └── 01-windows-server-foundation.md
+│
+├── active-directory/
+│   └── README.md
+│
+├── dns-dhcp/
+│   └── README.md
+│
+├── windows-client/
+│   └── README.md
+│
+├── file-shares-permissions/
+│   └── README.md
+│
+├── rdp-remote-support/
+│   └── README.md
+│
+├── printer-support/
+│   └── README.md
+│
+├── microsoft-365/
+│   └── README.md
+│
+├── endpoint-support/
+│   └── README.md
+│
+├── ticketing/
+│   └── README.md
+│
+├── troubleshooting/
+│   ├── README.md
+│   ├── windows-server.md
+│   ├── active-directory.md
+│   ├── dns-dhcp.md
+│   ├── windows-client.md
+│   ├── file-shares.md
+│   ├── rdp-remote-support.md
+│   ├── printer-support.md
+│   ├── microsoft-365.md
+│   ├── endpoint-support.md
+│   └── ticketing.md
+│
+├── screenshots/
+│   ├── windows-server/
+│   ├── active-directory/
+│   ├── dns-dhcp/
+│   ├── windows-client/
+│   ├── file-shares/
+│   ├── rdp-remote-support/
+│   ├── printer-support/
+│   ├── microsoft-365/
+│   ├── endpoint-support/
+│   ├── ticketing/
+│   └── troubleshooting/
+│
+└── resume-impact/
+    ├── windows-server.md
+    ├── active-directory.md
+    ├── dns-dhcp.md
+    ├── windows-client.md
+    ├── file-shares.md
+    ├── rdp-remote-support.md
+    ├── printer-support.md
+    ├── microsoft-365.md
+    ├── endpoint-support.md
+    ├── ticketing.md
+    └── troubleshooting.md
+```
+
+---
+
+## Lab Evidence Standard
+
+Each lab chapter will include:
+
+* Objective
+* Tools used
+* Steps completed
+* Screenshots / evidence
+* Issues encountered
+* Troubleshooting steps
+* Root cause
+* Resolution
+* Skills demonstrated
+* Resume impact
+
+The goal is for each link to act like a direct tunnel to the work, similar to navigating a file system.
+
+---
+
+
 <details>
 <summary><strong>Project Mission</strong></summary>
 
